@@ -9,6 +9,7 @@ function HeroSection() {
       <video src='/videos/Sea.mp4' autoPlay loop muted />
       <h1>TRAVELER</h1>
       <p>Explore the world!</p>
+      {/*
       <div className='hero-btns'>
         <Button
           className='btns'
@@ -25,7 +26,7 @@ function HeroSection() {
         >
           WATCH TRAILER <i className='far fa-play-circle' />
         </Button>
-      </div>
+      </div>*/}
     </div>
   );
 }
