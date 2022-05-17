@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 import Footer from '../Footer';
 
-export default function Products() {
+function Products() {
   return (
     <>
       <div className='products'></div>
@@ -10,3 +10,4 @@ export default function Products() {
     </>
   );
 }
+export default Products;

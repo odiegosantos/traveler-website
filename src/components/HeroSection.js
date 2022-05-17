@@ -1,6 +1,5 @@
 import React from 'react';
 import '../App.css';
-import { Button } from './Button';
 import './Styles/HeroSection.css';
 
 function HeroSection() {
@@ -30,5 +29,4 @@ function HeroSection() {
     </div>
   );
 }
-
 export default HeroSection;

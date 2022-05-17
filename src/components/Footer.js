@@ -1,6 +1,5 @@
 import React from 'react';
 import './Styles/Footer.css';
-import { Button } from './Button';
 import { Link } from 'react-router-dom';
 
 function Footer() {
@@ -10,7 +9,7 @@ function Footer() {
         <p className='footer-subscription-heading'>
           Join the Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </p>
-    
+
       </section>
       <div className='footer-links'>
         <div className='footer-link-wrapper'>
@@ -102,5 +101,4 @@ function Footer() {
     </div>
   );
 }
-
 export default Footer;

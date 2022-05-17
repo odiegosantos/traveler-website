@@ -47,5 +47,4 @@ function Cards() {
     </div>
   );
 }
-
 export default Cards;
