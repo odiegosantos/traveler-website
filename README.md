@@ -14,6 +14,9 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0;
 </p>
 
+
+https://user-images.githubusercontent.com/87211192/170042795-7a94e2f1-cae7-473c-a2f1-fe30efc64c90.mp4
+
 ## :dart: About ##
 My intention with this project is to improve an existing project and using the developed project as a basis, \
 in the Brian Design course where all files, class names and components have been changed for educational purposes. \
